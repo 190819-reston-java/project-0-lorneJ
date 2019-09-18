@@ -1,0 +1,9 @@
+6# Here, we'll specify a URL, username & password
+# The url has a few parts:
+# Driver Information: jdbc:postgresql
+# host URL: //databaseone.crbxg5ypzxmh.us-east-1.rds.amazonaws.com
+# port number: 3432
+# name of DB: Bank Account
+url = jdbc:postgresql://databaseone.crbxg5ypzxmh.us-east-1.rds.amazonaws.com:5432/bacct
+username = postgres
+password = Noire#123

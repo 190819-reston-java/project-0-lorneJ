@@ -1,0 +1,15 @@
+2019-09-17 20:04:03 INFO  Main:67 - Menu started
+2019-09-17 20:04:05 DEBUG Main:70 - Received user input: 1
+2019-09-17 20:04:06 INFO  Main:67 - Menu started
+2019-09-17 20:04:07 DEBUG Main:70 - Received user input: 2
+2019-09-17 20:04:13 DEBUG Main:86 - Received user input: 0.03
+2019-09-17 20:04:13 INFO  Main:67 - Menu started
+2019-09-17 20:04:13 DEBUG Main:70 - Received user input: 
+2019-09-17 20:04:13 INFO  Main:67 - Menu started
+2019-09-17 20:04:16 DEBUG Main:70 - Received user input: 3
+2019-09-17 20:04:18 DEBUG Main:96 - Received user input: 0.1
+2019-09-17 20:04:19 INFO  Main:67 - Menu started
+2019-09-17 20:04:19 DEBUG Main:70 - Received user input: 
+2019-09-17 20:04:19 INFO  Main:67 - Menu started
+2019-09-17 20:04:20 DEBUG Main:70 - Received user input: 5
+2019-09-17 20:04:20 INFO  Main:115 - User exited normally
